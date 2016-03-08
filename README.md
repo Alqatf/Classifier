@@ -1,0 +1,3 @@
+# Classifier
+Classify a dataset using five different classifiers including k-NN, Support Vector Machine (with RBF kernel), Naïve Bayes, Decision Trees and Neural Networks. The objective is to experiment with parameter selection in training classifiers and to compare the performance of these well- known classification methods. 
+This data is the splice junctions on DNA sequences.It includes 2200 samples with 57 features, in the matrix 'fea'. It is a binary class problem. The class labels are either +1 or -1, given in the vector 'gnd'. Parameter selection and classification tasks are conducted on this dataset.
